@@ -29,5 +29,5 @@ Recur for all elements except last of current subarray
 
 Due to its simplicity, bubble sort is often used to introduce the concept of a sorting algorithm.
 In computer graphics it is popular for its capability to detect a very small error (like swap of just two elements) in almost-sorted arrays and fix it with just linear complexity (2n). For example, it is used in a polygon filling algorithm, where bounding lines are sorted by their x coordinate at a specific scan line (a line parallel to x axis) and with incrementing y their order changes (two elements are swapped) only at intersections of two lines
-[a link](https://github.com/doyelsaha510/Sorting_Algo/blob/master/bubbleSort.java)
-[a link](https://github.com/doyelsaha510/Sorting_Algo/blob/master/bubbleSortRecur.java)
+[bubble sort link](https://github.com/doyelsaha510/Sorting_Algo/blob/master/bubbleSort.java)
+[recursive bubble sort link](https://github.com/doyelsaha510/Sorting_Algo/blob/master/bubbleSortRecur.java)
